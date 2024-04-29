@@ -1,6 +1,3 @@
-Certainly! Here's a basic README.md file that explains how to use the navigation header:
-
-```markdown
 # Website Navigation Header
 
 This project contains a responsive navigation header for a website, built using HTML, CSS, Bootstrap, and JavaScript. The navigation header includes links for Home, About, Contact, and History pages, along with three dropdown menus.
